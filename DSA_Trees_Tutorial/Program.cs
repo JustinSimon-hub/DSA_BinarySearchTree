@@ -13,3 +13,8 @@ Console.WriteLine(bst.Find(151));
 
 
 
+bst.PrintPreOrderTraversal();
+
+
+
+
